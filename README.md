@@ -6,8 +6,6 @@ A simple temperature converter application that converts temperature between Cel
 
 * Introduction
 * Features
-* Installation
-* Usage
 * Contributing
 * License
   
